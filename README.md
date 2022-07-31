@@ -1,7 +1,7 @@
 # biographical_relevance_guidelines
 
 This repository contains the annotation guidelines for the paper
-"Biographically Relevant Tweets -- A New Dataset, Linguistic Analysis and Classification Experiments" by Michael Wiegand, Rebecca Wilm and Katja Markert.
+"XXXXX" by Michael Wiegand, Rebecca Wilm and Katja Markert.
 
 There are the following files available in this directory:
 - annotation_guidelines.pdf: the annotation guidelines
